@@ -1,0 +1,20 @@
+{
+  "name": "vanilla-ssg",
+  "version": "0.0.1",
+  "description": "A very minimalistic, single function static site generator based on ES6 template strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "static site generator",
+    "templating",
+    "html generator"
+  ],
+  "author": "Cazaciuc Gabriel",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^1.0.3",
+    "renderly": "^0.1.0"
+  }
+}
